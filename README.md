@@ -1,2 +1,2 @@
 # xRDS
-C# Dynamic RESTful API console
+xRDS is a free, open source REST API C# middleware platform
